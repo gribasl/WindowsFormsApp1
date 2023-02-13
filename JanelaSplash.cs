@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApp1
 {
-	public partial class JanelaAplash : Form
+	public partial class JanelaSplash : Form
 	{
-		public JanelaAplash()
+		public JanelaSplash()
 		{
 			InitializeComponent();
 		}

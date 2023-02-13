@@ -85,7 +85,7 @@ namespace WindowsFormsApp1
         private void Form1_Load(object sender, EventArgs e)
         {
 			//para abrir a janela splash
-			var janela = new JanelaAplash();
+			var janela = new JanelaSplash();
 			janela.ShowDialog();
 
 			//Código para abertura do formulário de cadastro de cargo

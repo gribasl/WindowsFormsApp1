@@ -94,11 +94,11 @@
     <Compile Include="Funcionarios.Designer.cs">
       <DependentUpon>Funcionarios.cs</DependentUpon>
     </Compile>
-    <Compile Include="JanelaAplash.cs">
+    <Compile Include="JanelaSplash.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="JanelaAplash.Designer.cs">
-      <DependentUpon>JanelaAplash.cs</DependentUpon>
+    <Compile Include="JanelaSplash.Designer.cs">
+      <DependentUpon>JanelaSplash.cs</DependentUpon>
     </Compile>
     <Compile Include="Produtos.cs">
       <SubType>Form</SubType>
@@ -129,8 +129,8 @@
     <EmbeddedResource Include="Funcionarios.resx">
       <DependentUpon>Funcionarios.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="JanelaAplash.resx">
-      <DependentUpon>JanelaAplash.cs</DependentUpon>
+    <EmbeddedResource Include="JanelaSplash.resx">
+      <DependentUpon>JanelaSplash.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
